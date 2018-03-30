@@ -1,4 +1,5 @@
-//GLOBAL VARS
+//GLOBAL VARs
+//this is for git hub training
 var squares=document.querySelectorAll(".square");
 var numSquares=squares.length;
 var colors=colorGenerator(numSquares);
